@@ -1,4 +1,4 @@
-Syed Khuzema Ali | Machine Learning Expert & Prompt Engineering Specialist
+Syed Khuzema Ali | Machine Learning Expert & Prompt Engineering Specialist 
 ==========================================================================
 
 [https://img.shields.io/badge/Machine\_Learning-Expert-0066CC](https://img.shields.io/badge/Machine_Learning-Expert-0066CC)[https://img.shields.io/badge/Prompt\_Engineering-Specialist-00AA00](https://img.shields.io/badge/Prompt_Engineering-Specialist-00AA00)[https://img.shields.io/badge/AI\_Development-Focused-FF6600](https://img.shields.io/badge/AI_Development-Focused-FF6600)[https://img.shields.io/badge/Python-Developer-FFD43B](https://img.shields.io/badge/Python-Developer-FFD43B)[https://img.shields.io/badge/LLM-Specialist-800080](https://img.shields.io/badge/LLM-Specialist-800080)
